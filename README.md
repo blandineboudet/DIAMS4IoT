@@ -1,2 +1,4 @@
 # DIAMS4IoT
-DIAMS4IoT Project
+Github page of the DIAMS4IoT Project: "USing Blockchain to secure IoT devices"
+
+
