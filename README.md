@@ -1,14 +1,17 @@
 # DIAMS4IoT
 Github page of the DIAMS4IoT Project: "USing Blockchain to secure IoT devices"
 
-Directories (to come...):
+Directories (to create...):
 - Blockchain
    - Hyperledger Fabric 
-   - Identity
+   - Identity Management
    - Authentication
+     - Simulation of Device-Gateway Authentication
    - Authorization and Access
    - Client App
-     - Front End
-     - SDk Fabric
+     - Back
+       - FirstNetwork Fabric Blockchain
+     - Front
+       - Interfaces models
      - ...
 - XIoT
